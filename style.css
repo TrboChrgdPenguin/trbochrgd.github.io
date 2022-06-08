@@ -175,3 +175,11 @@ p{
     background-color: #36f4db1a;
     transition: 0.01s;
 }
+@media(max-width: 700px){
+    .music-box audio{
+        height: 30px;
+    }
+    .music-box{
+        display:block;  
+    }
+}
