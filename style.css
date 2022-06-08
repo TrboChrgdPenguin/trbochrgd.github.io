@@ -161,6 +161,13 @@ p{
     padding-top: 10px;
     padding-left: 20px;
     border: 1px solid #36f4db;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.music-box audio{
+    padding-right: 30px;
+    padding-bottom: 10px;
 }
 .music-box:hover{
     border: 1px solid #36f46c;
