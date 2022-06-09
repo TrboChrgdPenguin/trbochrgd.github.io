@@ -147,6 +147,9 @@ nav .fa{
     display: flexbox;
     justify-content: space-between;
 }
+.music-info i{
+    color: #fff;
+}
 h1{
     font-size: 36px;
     font-weight: 600;
