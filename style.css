@@ -10,7 +10,7 @@
     user-select: none;
 }
 html{
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .header{
